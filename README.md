@@ -11,11 +11,11 @@
 
 - 🤝 I’m looking for help with **Node Guides**
 
-- 📝 I regularly write articles on [Node Projects](Node Projects)
+- 📝 I regularly write articles on Node Projects & Node Projects
 
 - 💬 Ask me about **Worker Nodes , Light Nodes , Validator Nodes**
 
-- 📫 How to reach me **happypal200421@gmail.com**
+- 📫 How to reach me **DM me on Twitter**
 
 - ⚡ Fun fact **I think I am Gorrila**
 
